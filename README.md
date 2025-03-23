@@ -14,7 +14,7 @@ This project is a web-based application that extracts news articles for a given 
 
 ## Project Links
 - **Hugging Face Space:** (https://huggingface.co/spaces/pandeyshikhar/news_summarizer_tts)
-- **Video Demo:** [Watch the Demo](https://drive.google.com/file/d/1DB-nL0k_D5HgH-kf87Pze1r9ZbiNtFU1/view?usp=sharing))
+- **Video Explaination:**(https://drive.google.com/file/d/1DB-nL0k_D5HgH-kf87Pze1r9ZbiNtFU1/view?usp=sharing))
 
 ## Installation
 
