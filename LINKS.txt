@@ -1,0 +1,4 @@
+PROJECT REPORT LINK: https://drive.google.com/file/d/1FT2lbgNhXMOj424cVlVtZJqvKs1UmVTn/view?usp=sharing
+GITHUB LINK: https://github.com/pandeyshikhar18/News_Summarizer_TTS
+HUGGING FACE SPACE LINK: https://huggingface.co/spaces/pandeyshikhar/news_summarizer_tts
+VIDEO EXPLANATION LINK: https://drive.google.com/file/d/1DB-nL0k_D5HgH-kf87Pze1r9ZbiNtFU1/view
