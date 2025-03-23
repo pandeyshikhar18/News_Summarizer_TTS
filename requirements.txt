@@ -1,0 +1,9 @@
+streamlit
+flask
+requests
+beautifulsoup4
+transformers
+gTTS
+langdetect
+matplotlib
+sacremoses
